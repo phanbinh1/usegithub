@@ -69,8 +69,12 @@ function TodoList({
          )
       })
    }
+<<<<<<< HEAD
    //day, month, year
    //edit day roi
+=======
+   
+>>>>>>> e49b85905e7239f0a262dd4ce6bb7e58ded41675
    var today = new Date();
    const currentDay=(day)=>{
       var day_name = '';

@@ -69,7 +69,7 @@ function TodoList({
          )
       })
    }
-   //day, month, year
+   
    var today = new Date();
    const currentDay=(day)=>{
       var day_name = '';

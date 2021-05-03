@@ -70,6 +70,8 @@ function TodoList({
       })
    }
    //add day, month, year
+   //edit beta
+   //edit master
    var today = new Date();
    const currentDay=(day)=>{
       var day_name = '';
